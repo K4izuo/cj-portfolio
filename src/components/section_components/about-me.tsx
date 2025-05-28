@@ -45,7 +45,7 @@ const AboutMe: React.FC = () => {
 
   return (
     // py-20 md:py-36 lg:py-44
-    <section className="py-[96px] md:py-20 lg:py-[81px] bg-gradient-to-b from-white to-gray-50"> 
+    <section className="py-[114px] md:py-20 lg:py-[108px] bg-gradient-to-b from-white to-gray-50"> 
       <div className="container mx-auto px-4 lg:px-20">
         <div className="text-center mb-12">
           <motion.span
